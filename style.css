@@ -1,0 +1,18 @@
+h1 {
+	color: black;
+	font-family:Verdana;
+	font-size: 25px;
+}
+label {
+	display:block;
+	margin-bottom:5px;
+}
+.container {
+            max-width: 700px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 5px;
+
+   }
+   
